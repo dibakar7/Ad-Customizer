@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+
+.UserInputContainer{
+    background-color:  #fff9d8;
+    width: 600px;
+    margin-right: 20px;
+    padding-left: 30px;
+    padding-right: 15px;
+    padding-top: 30px;
+    border-radius: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+.title{
+    text-align: center;
+    width: 100%;
+}
+.title span{
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.subtitle{
+    text-align: center;
+    width: 100%;
+    /* border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px; */
+}
+
+.imageInput{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px dashed grey;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.imageInput .btn{
+    display: inline-block;
+    padding: 10px 20px;
+    color: blue; 
+    cursor: pointer;
+}
+
+.innerMargin{
+    padding-top: 30px;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+.innerMargin span{
+    background: #fff9d8;
+    padding: 0 10px;
+}
+
+.adContentBoundary{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px dashed grey;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.ctaBoundary{
+    border: 1px dashed grey;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+.bgColor{
+    margin-top: 20px;
+}
+
+.bgColor .colorArray{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+}
+
+.colorPickerContainer{
+    position: absolute;
+    bottom: 30px;
+}
+
