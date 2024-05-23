@@ -1,3 +1,27 @@
+# Ad-Customizer:
+It is a react based front end web application. One can customize their ad template using this app.
+
+## What you can expect from this:
+1. Can change template background color,
+2. Add text to tell about your advertisement briefly,
+3. Can add CTA (Call to Action) text,
+4. A good looking ad template,
+5. Color picker facility to make template eye-catchy.
+   
+Currently this is version 1.0.0, in near future more functionality will be added.
+Hosted on netlify app using CI/CD pipeline from Github repo. [Click Here](https://add-customizer.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ba1b601-7e27-4681-a5d3-91cc09b32116/deploy-status)](https://app.netlify.com/sites/add-customizer/deploys)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
