@@ -138,7 +138,7 @@ const Canvas = ({ adImage, bgColor, contentText, CTA }) => {
 
   return (
     <div className="CanvasContainer">
-      <canvas ref={canvasRef} width={1080} height={1080} style={{ width: 400, height: 400}} />
+      <canvas ref={canvasRef} width={1080} height={1080} style={{ width: 400, height: 400, backgroundColor: "#ffffff"}} />
     </div>
   );
 };
